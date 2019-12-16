@@ -1,0 +1,8 @@
+{
+    "name": "javascript_learning",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "rasel",
+    "contributors": [],
+    "dependencies": {}
+}
